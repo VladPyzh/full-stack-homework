@@ -1,0 +1,6 @@
+.match_list{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    float: right;
+}

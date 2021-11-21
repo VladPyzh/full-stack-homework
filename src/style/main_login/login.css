@@ -1,0 +1,62 @@
+.login_block{
+    position: absolute;
+    top: 20%;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 800px;
+    height: 400px;
+    background-color: white;
+}
+
+.enter{
+    font: 40px "Fira Sans", serif;
+    width:20%;
+    left:40%;
+    margin-bottom: 5px;
+    position: relative;
+    text-align: left;
+}
+
+.form-group{
+    text-align: center;
+}
+
+.form-label{
+    font: 24px "Fira Sans", serif;
+    width:20%;
+    left:40%;
+    position: relative;
+    display: block;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.form-control{
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.enter_link{
+    left:30%;
+    margin-top: 30px;
+    float:left;
+    width:20%;
+    position: relative;
+    text-align: center;
+}
+
+.enter_text{
+    font: 24px "Fira Sans", serif;
+}
+
+.reset_password{
+    font: 24px "Fira Sans", serif;
+    right:25%;
+    margin-top: 30px;
+    float:right;
+    width:30%;
+    position: relative;
+    text-align: center;
+}

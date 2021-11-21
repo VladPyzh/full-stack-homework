@@ -1,0 +1,15 @@
+.section{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    margin: 30px;
+}
+
+.main_section {
+    color: #A41414;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    padding: 10px;
+    margin: 30px;
+}

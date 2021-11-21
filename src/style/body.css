@@ -1,0 +1,16 @@
+body{
+    background-image: url('../pictures/Old_Trafford.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+hr {
+    width:80%;
+    margin-left: 10%;
+    padding: 0;
+    background-color: black;
+}
+
+a {
+    color: #A41414;
+}
